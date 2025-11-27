@@ -8,4 +8,7 @@ A Python script that automatically captures screenshots every X seconds and save
 - Takes screenshots automatically
 - Saves images as PNG files
 - Simple and lightweight
+
 - Works on Windows, Mac, Linux
+
+---
